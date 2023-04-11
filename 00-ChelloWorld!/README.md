@@ -1,6 +1,6 @@
 Trabajo Práctico #0 – "Hello, World!" en C
----------
 Configurar un entorno de trabajo y armar grupos
+---------
 1. Objetivos
 a. Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el desarrollo
 de un programa simple.
