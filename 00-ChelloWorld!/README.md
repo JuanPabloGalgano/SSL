@@ -35,9 +35,9 @@ e. Armado de Equipo.
   i. Informe el número de equipo en esta lista. (entrar con cuenta institucional) Con el número de equipo y cuenta @frba, la Cátedra le envía la invitación al repositorio privado del equipo, por eso es importante que su cuenta GitHub tenga asociado como email público su email @frba, tal como indica el primer paso.
   ii. Luego de aceptar la invitación al repositorio privado del equipo, si lo desea, puede cambiar el email público en GitHub.
   5. Productos
-  `-- SSL
+  |-- SSL
       |-- readme.md // Usuario GitHub
-      `-- 00-ChelloWorld // Repositorio público para la materia
+      |-- 00-ChelloWorld // Repositorio público para la materia
           |-- readme.md // Archivo front page del usuario
           |-- hello.c // Archivo fuente del programa
-          `-- output.txt // Archivo con la salida del programa
+          |-- output.txt // Archivo con la salida del programa
