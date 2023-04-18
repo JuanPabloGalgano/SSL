@@ -1,1 +1,1 @@
-Para la realizacion del trabajo se utilizo Visual Studio Code, con el compilador MSYS 2
+Este es el repositorio individual de Juan Pablo Galgano
