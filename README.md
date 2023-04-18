@@ -1,1 +1,1 @@
-Este es el repositorio individual de Juan Pablo Galgano
+. Este es el repositorio individual de Juan Pablo Galgano
